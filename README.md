@@ -26,6 +26,11 @@
 [webpack官方文档](https://doc.webpack-china.org/)
 带着初学者的心，再去巩固一遍，我相信你会有不一样的感觉。
 
+ 
+### 好文推荐
+[webpack3构建高性能应用](http://www.css88.com/archives/7661)
+
+
 ### todo
 自己配置一个react脚手架。
 
