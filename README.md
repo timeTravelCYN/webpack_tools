@@ -29,8 +29,9 @@
  
 ### 好文推荐
 [webpack3构建高性能应用](http://www.css88.com/archives/7661)
-
-
+[webpack打包优化之体积篇](http://www.jeffjade.com/2017/08/06/124-webpack-packge-optimization-for-volume/)
+[webpack打包优化之速度篇](http://www.jeffjade.com/2017/08/12/125-webpack-package-optimization-for-speed/)
+ 
 ### todo
 自己配置一个react脚手架。
 
